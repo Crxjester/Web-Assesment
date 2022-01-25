@@ -135,6 +135,26 @@ header {
     width: 35%;
 }
 
+.section3 {
+    display: flex;
+    background-color: #eaebec;
+    padding: 32px 72px;
+    text-decoration: none;
+}
+
+.section4 {
+    display: flex;
+    background-color:white;
+    padding: 32px 24px;
+    text-decoration: none;
+}
+
+.Footer {
+    display: flex;
+    background-color:white;
+    padding: 16px 24px;
+    text-decoration: none;
+}
 
 @media only screen and (max-width:720px) 
 {
